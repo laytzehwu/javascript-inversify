@@ -3,6 +3,7 @@
 Example of greeter - learn about interface of typescript
 ========================================================
 I have tried below code to provide interface work! :)
+
 greeter.ts
 ```javascript
 'use strict';
